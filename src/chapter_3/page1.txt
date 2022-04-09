@@ -15,3 +15,13 @@ if not file is in a folder, we cannot track the folder itself only
 
 - before committing, there is a staging step, staging means get it ready to be committed.
 
+- staging is not optional step, we need staging to commit, we need to select the file in order to commit
+
+- staging happens before committing
+
+- staging is selecting what to commit
+
+- without staging we cannot commit
+
+
+

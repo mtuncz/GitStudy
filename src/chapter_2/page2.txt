@@ -5,3 +5,9 @@ to the chapter 2 of the book
 this is the page number 2 of the
 
 chapter 2
+
+
+git: a version control system
+
+github: platform to host remote repositories
+

@@ -25,4 +25,8 @@ if not file is in a folder, we cannot track the folder itself only
 
 - each commit is a change we are making, they are the save points
 
+- fetch will bring the new data without added to our local project right away, useful if you want to see what was the changes before putting them in your project
 
+- to update your local repository with the new changes from the remote we can pull
+
+- updating will apply changes to the same branch

@@ -5,4 +5,5 @@ if not file is in a folder, we cannot track the folder itself only
 
 - if the file appears red, it means it is unversioned
 - that means, we are not keeping track of it.
--
+- if we commit sth, it means it goes to our local repository
+- once we commit, that means we are committing them.

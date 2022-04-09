@@ -1,0 +1,8 @@
+
+git is not about tracking folders, it is about tracking files.
+
+if not file is in a folder, we cannot track the folder itself only
+
+- if the file appears red, it means it is unversioned
+- that means, we are not keeping track of it.
+-

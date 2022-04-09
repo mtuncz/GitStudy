@@ -7,3 +7,6 @@ if not file is in a folder, we cannot track the folder itself only
 - that means, we are not keeping track of it.
 - if we commit sth, it means it goes to our local repository
 - once we commit, that means we are committing them.
+
+- commit: saved my changes to my local repository
+- push: sending the changes in the local repository to the remote repository

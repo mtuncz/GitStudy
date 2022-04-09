@@ -1,13 +1,13 @@
-this is another page added
-
-to the chapter 2 of the book
-
-this is the page number 2 of the
-
-chapter 2
-
 
 git: a version control system
 
 github: platform to host remote repositories
+
+local respository: folder to keep track of changes locally on each device
+
+each computer has a local repository
+
+remote repository: folder online that keeps track of changes, but also can have changes of others
+
+locally everything is ours, but with remote repository, the others changes are also tracked
 

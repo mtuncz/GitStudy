@@ -23,5 +23,6 @@ if not file is in a folder, we cannot track the folder itself only
 
 - without staging we cannot commit
 
+- each commit is a change we are making, they are the save points
 
 

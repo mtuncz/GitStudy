@@ -25,7 +25,8 @@ what is the master branch?
 - when we make a branch, it is copying of that branch up to that point in time where we make a new branch. It is copying the current state of that branch at that point.
 - Head is to way to know where you are at
 
--
+- to merge, go to git menu -> merge
+- from the pop up window, modify options -> select --no--ff
 
 
 

@@ -27,6 +27,7 @@ what is the master branch?
 
 - to merge, go to git menu -> merge
 - from the pop up window, modify options -> select --no--ff
+- before we do any merging we should be on the master branch
 
 
 

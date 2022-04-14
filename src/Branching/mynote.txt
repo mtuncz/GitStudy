@@ -21,6 +21,7 @@ what is the master branch?
     - checkout branch- meaning we are switching branches
 
 - on tags origin means remote repository
+- master means local
 
 
 

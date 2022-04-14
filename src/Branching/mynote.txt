@@ -20,5 +20,7 @@ what is the master branch?
     - git menu -> new branch
     - checkout branch- meaning we are switching branches
 
+- on tags origin means remote repository
+
 
 

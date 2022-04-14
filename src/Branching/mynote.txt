@@ -18,5 +18,7 @@ what is the master branch?
 - How to branch
     - git log -> right click on the master branch -> new branch from selected
     - git menu -> new branch
+    - checkout branch- meaning we are switching branches
+
 
 

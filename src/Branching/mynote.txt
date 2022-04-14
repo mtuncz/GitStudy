@@ -1,0 +1,22 @@
+
+what is the master branch?
+- working valid location
+- the actual code everyone will use
+- we are not gonna push to our master branch
+- we do not directly push to the master branch
+- we can make copy of the files by branching
+- when we are ready, whatever branch we were using for, we could combine
+- branch is a copy environment/flow for development
+- HEAD: current branch/commit that is being viewed
+    - detached head: when you are checked out to a commit
+    - do not do any changes on a detached head, only on branches
+- Checkout: Switch the head to a branch/commit
+  - the way we switch between branches
+- Merge: combine changes from branches together
+
+
+- How to branch
+    - git log -> right click on the master branch -> new branch from selected
+    - git menu -> new branch
+
+
